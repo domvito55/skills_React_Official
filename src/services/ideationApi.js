@@ -8,7 +8,7 @@
  * Version: 1.0
  */
 
-const API_BASE_URL = "http://skillsdemo.us-east-1.elasticbeanstalk.com/api";
+const API_BASE_URL = "http://skillsdemo5.us-east-1.elasticbeanstalk.com/api";
 
 /**
  * Sends a message to the chat API
